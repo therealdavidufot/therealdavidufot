@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @therealdavidufot. not a superhero. extremely awesome, but a regular human like you.
-- ❗ I am a UI/UX developer!
+- ❗ I am a UI/UX developer/product designer!
 - 👀 I’m interested in learning new stuff and learning new programming languages to make me generally more valuable and versatile in terms of team projects...
 - 🌱 I’m currently learning python and c++...
 - 💞️ I’m looking to collaborate on any projects available for me, if there's an open spot for html, i'm your guy!..
